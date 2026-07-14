@@ -1,0 +1,11 @@
+{
+  "name": "LocalOnlyBadgeSwitcher",
+  "description": "Shows a client-side only \"Moderator (local)\" badge. This does NOT call Discord APIs to grant any real moderator privileges or badges.",
+  "author": "sahamyt2004-cpu",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "vendetta": {
+    "authorId": "sahamyt2004-cpu",
+    "minVersion": "1.0.0"
+  }
+}
